@@ -4,7 +4,7 @@
 
 // object holding global variables
 module.exports = {
-  db: 'mongodb://localhost/comp2068-fri',
-  secret: 'Some random string used to salt 123'
-  //db: 'mongodb://gcrfreeman2:pass@ds048319.mlab.com:48319/comp2068-thu'
+  //db: 'mongodb://localhost/comp2068-fri',
+  secret: 'Some random string used to salt 123',
+  db: 'mongodb://<dbuser>:<dbpassword>@ds057176.mlab.com:57176/jf200260684'
 };
