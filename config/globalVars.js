@@ -6,5 +6,5 @@
 module.exports = {
   //db: 'mongodb://localhost/comp2068-fri',
   secret: 'Some random string used to salt 123',
-  db: 'mongodb://<dbuser>:<dbpassword>@ds057176.mlab.com:57176/jf200260684'
+  db: 'mongodb://gc:gc@ds057176.mlab.com:57176/jf200260684'
 };
